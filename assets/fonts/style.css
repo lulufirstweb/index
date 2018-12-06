@@ -1,8 +1,12 @@
 @font-face {
+   font-family: 'msjhbd';
+   src: url('msjhbd/font.ttf');
+}
+@font-face {
    font-family: 'WCL-03';
    src: url('WCL-03/font.ttf');
 }
 @font-face {
-   font-family: 'wt009';
-   src: url('wt009/font.ttf');
+   font-family: 'wt011';
+   src: url('wt011/font.ttf');
 }
