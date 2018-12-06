@@ -15,7 +15,7 @@
         "mainFont": "Rubik",
         "display1Font": "msjhbd",
         "display1Size": 4.25,
-        "display2Font": "WCL-03",
+        "display2Font": "WCL03",
         "display2Size": 3,
         "display5Font": "wt011",
         "display5Size": 1.5,
@@ -52,6 +52,12 @@
         "name": "msjhbd",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/msjhbd/font.ttf"
+      },
+      {
+        "css": "'WCL03'",
+        "name": "WCL03",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/WCL03/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
